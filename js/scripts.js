@@ -6,8 +6,10 @@ $(document).ready(function() {
 
   if (q1 === "no") {
     $('#q1no').show();
+    $("input#question1").hide("slow");
   } else {
     $('#q1yes').show();
+    $("input#question1").hide("slow");
   }
 
   });
@@ -21,8 +23,10 @@ $(document).ready(function() {
 
   if (q1 === "no") {
     $('#q2no').show();
+    $("input#question2").hide("slow");
   } else {
     $('#q2yes').show();
+    $("input#question2").hide("slow");
   }
 
   });
@@ -36,8 +40,10 @@ $(document).ready(function() {
 
   if (q1 === "no") {
     $('#q3no').show();
+    $("input#question3").hide("slow");
   } else {
     $('#q3yes').show();
+    $("input#question3").hide("slow");
   }
 
   });
@@ -51,8 +57,10 @@ $(document).ready(function() {
 
   if (q1 === "no") {
     $('#q4no').show();
+    $("input#question4").hide("slow");
   } else {
     $('#q4yes').show();
+    $("input#question4").hide("slow");
   }
 
   });
@@ -66,8 +74,10 @@ $(document).ready(function() {
 
   if (q1 === "no") {
     $('#q5no').show();
+    $("input#question5").hide("slow");
   } else {
     $('#q5yes').show();
+    $("input#question5").hide("slow");
   }
 
   });
