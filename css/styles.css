@@ -6,3 +6,44 @@
 #q1no {
   display: none;
 }
+
+#q2yes {
+  display: none;
+
+}
+
+#q2no {
+  display: none;
+}
+
+#q3yes {
+  display: none;
+
+}
+
+#q3no {
+  display: none;
+}
+
+#q4yes {
+  display: none;
+
+}
+
+#q4no {
+  display: none;
+}
+
+#q5yes {
+  display: none;
+
+}
+
+#q5no {
+  display: none;
+}
+
+.form-group {
+  display: inline-block.
+  width inline-block;
+}
