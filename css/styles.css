@@ -47,8 +47,9 @@
   padding-top: 15px;
   padding-bottom: 15px;
   margin-bottom: 15px;
-  color: inherit;
+  color: #8063AA;
   background-color: #C8F3E8;
+  text-align: center;
 }
 
 body {
@@ -57,4 +58,5 @@ body {
 
 .btn {
   background: #F5F8CC;
+  font-size: 11px;
 }
